@@ -1410,6 +1410,16 @@ CoNLL-U:
   - CoNLL
   - CoNLL-X
   language_id: 421026389
+Code:
+  type: programming
+  color: "#00A4EF"
+  aliases:
+  - code-language
+  extensions:
+  - ".code"
+  tm_scope: source.code
+  ace_mode: text
+  language_id: 508346137
 CodeQL:
   type: programming
   color: "#140f46"

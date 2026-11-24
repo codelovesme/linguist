@@ -133,6 +133,7 @@ This is a list of grammars that Linguist selects to provide syntax highlighting 
 - **Clue:** [ClueLang/Clue-for-VSCode](https://github.com/ClueLang/Clue-for-VSCode)
 - **CoNLL-U:** [odanoburu/conllu-linguist-grammar](https://github.com/odanoburu/conllu-linguist-grammar)
 - **CodeQL:** [tree-sitter/tree-sitter-ql](https://github.com/tree-sitter/tree-sitter-ql) 🐌
+- **Code:** [codelovesme/code-tmLanguage](https://github.com/codelovesme/code-tmLanguage)
 - **CoffeeScript:** [atom/language-coffee-script](https://github.com/atom/language-coffee-script)
 - **ColdFusion:** [SublimeText/ColdFusion](https://github.com/SublimeText/ColdFusion)
 - **ColdFusion CFC:** [SublimeText/ColdFusion](https://github.com/SublimeText/ColdFusion)
